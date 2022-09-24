@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/posts/12e584a9394f/"/>
+      <url>/posts/12e584a9394f/</url>
+      
+        <content type="html"><![CDATA[<h1 id="某文库下载难？这几款工具不妨试试"><a href="#某文库下载难？这几款工具不妨试试" class="headerlink" title="某文库下载难？这几款工具不妨试试"></a>某文库下载难？这几款工具不妨试试</h1><h2 id="1-Wenku-Doc-Downloader"><a href="#1-Wenku-Doc-Downloader" class="headerlink" title="1.Wenku Doc Downloader"></a>1.Wenku Doc Downloader</h2><p> <a href="https://greasyfork.org/zh-CN/scripts/435884">Wenku Doc Downloader</a> ，是一个文库下载的辅助脚本。<br>地址： <a href="https://greasyfork.org/zh-CN/scripts/435884">https://greasyfork.org/zh-CN/scripts/435884</a><br>除了不支持百度文库，脚本支持豆丁网、道客巴巴 、得力文库、MBA智库、新浪文档、原创力文档等文库网站。<br><img src="/img/1/1.JPG"><br>作为一个脚本，它的能力是有限的，比如不支持下载<strong>不能预览的部分</strong>，还有导出的 PDF 是图片，文字无法复制。<br>但它提供的“<strong>复制选中文字</strong>”功能，却是极好的。</p><h2 id="2-文库下载器-BY小叶"><a href="#2-文库下载器-BY小叶" class="headerlink" title="2.文库下载器 BY小叶"></a>2.文库下载器 BY小叶</h2><p> <a href="https://www.52pojie.cn/thread-1359358-1-1.html">文库下载器 BY小叶</a> ，是 52pojie 论坛的网友开发。<br>作者说是一个练手作品，然后就停止了维护，软件也不再可用，但其实<strong>只要屏蔽更新模块</strong>，就可以继续使用了。<br><img src="/img/1/2.JPG"><br>方法是打开 <strong>C:\WINDOWS\System32\drivers\etc\hosts</strong>，在最后一行加入 <strong>127.0.0.1 wk.dayer.work</strong> 即可。<br><img src="/img/1/3.JPG"></p><h2 id="3-XX-文库下载器"><a href="#3-XX-文库下载器" class="headerlink" title="3.XX 文库下载器"></a>3.XX 文库下载器</h2><p> <a href="https://www.52pojie.cn/thread-1664112-1-1.html">XX 文库下载器</a> ，是 52pojie 论坛网友“<strong>bean0283</strong>开发出来的文库下载器。<br>它可以将文档一键保存为 <strong>PDF</strong>，而且质量也原始文档等同，算得上是<strong>速度最快，成功率最高</strong>的百度文库下载器。<br><img src="/img/1/4.JPG"><br>使用方法很简单。<br>第一次使用，点击登录 xx 文库，登录成功后，点击提取 cookie，再输入文库地址，即可点击一键下载。<br><img src="/img/1/5.JPG"><br>下载的文件会自动保存到“<strong>桌面</strong>”。后续使用，只 要cookie 没有失效，直接黏贴文库地址即可继续下载。</p><h2 id="4-冰点文库下载器"><a href="#4-冰点文库下载器" class="headerlink" title="4.冰点文库下载器"></a>4.冰点文库下载器</h2><p> <a href="http://www.bingdian001.com/">冰点文库下载器</a> ，是各类文档的“<strong>老牌搭档</strong>”了。<br>虽然冰点官方已经停止了维护，但时<strong>至今日仍可使用，</strong>而且它还支持豆丁、畅享、mbalib、道客巴巴等多个网站。<br><img src="/img/1/6.JPG"></p><h2 id="5-文库下载器脚本"><a href="#5-文库下载器脚本" class="headerlink" title="5.文库下载器脚本"></a>5.文库下载器脚本</h2><p>与油猴插件搭配使用<br>有时会失效，请多尝试几次<br><a href="https://greasyfork.org/zh-CN/scripts/437043">文库下载器</a><br>::注意，此脚本与Wenku Doc Downloader 冲突，若使用此脚本，请关闭它::</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>page</title>
       <link href="/posts/61301067b59e/"/>
       <url>/posts/61301067b59e/</url>
